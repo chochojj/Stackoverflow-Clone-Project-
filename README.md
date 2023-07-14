@@ -8,7 +8,6 @@
 - `팀 명` : Alive
 - `프로젝트명` : Stackoverflow Clone Project
 - `프로젝트 기간` : 2023.04.14 - 2023.04.27
-- `배포 링크` : [StackOverFlow](http://pre-test-0424.s3-website.ap-northeast-2.amazonaws.com/)
 
 개발자들의 최대 커뮤니티, 스택 오버 플로우의 기본 기능을 그대로 옮겨온 클론 페이지를 만들어보았습니다 
 
